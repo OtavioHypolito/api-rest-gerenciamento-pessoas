@@ -1,5 +1,8 @@
 package one.digitalinnovation.personapi.dto.request;
 
+import javax.validation.Valid;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.Size;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
